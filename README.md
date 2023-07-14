@@ -1,11 +1,11 @@
 <p align = "center" style="font-size:300%;"><b>Hi 👋, I'm Kamil</b></p>
 
 ---
-<p align = "center" style="font-size:300%;"><b>Master Student in the field of Data Mining and Interdisciplinary Modeling</b></p>
+<p align = "center" style="font-size:300%;"><b>Computer physicist specialized in the field of data mining and interdisciplinary modeling</b></p>
 
 ---
 
-- Future M.Sc. Eng. (June 2023)
+- MSc. Eng. (Complex Systems Physics)
 - Currently working on research in the field of predictive analysis and weight-topological correlations in complex networks
 - Currently learning new machine learning, AI topics (TensorFlow) and Julia language
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/kamil-orzechowski-75789225b/)
