@@ -5,7 +5,7 @@
 
 ---
 
-- MSc. Eng. (Complex Systems Physics)
+- PhD Candidate (Complex Systems Physics)
 - Currently working on research in the field of predictive analysis and weight-topological correlations in complex networks
 - Currently learning new machine learning, AI topics (TensorFlow) and Julia language
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/kamil-orzechowski-75789225b/)
